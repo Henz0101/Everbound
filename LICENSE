@@ -8,7 +8,7 @@ STATEMENT OF PURPOSE
 
 This license was created to promote community-driven modification, education, and creative play with games developed by Maplebox. While the source content is made available to the public, it is NOT in the public domain. Users are encouraged to experiment, modify, and learn — but not to resell, redistribute commercially, or misuse original assets or code without explicit permission.
 
-The goal of this license is to build a safe and fun space for creativity — much like sandbox games that thrive on modding communities — while protecting the original creators’ rights and reputation.
+The goal of this license is to build a safe and fun space for creativity — much like sandbox games that thrive on modding communities — while protecting the original creators’ rights and reputation. This license aims to balance accessibility and creative freedom with the protection of the intellectual property rights of Maplebox and its community.
 
 1. DEFINITIONS
 
@@ -18,43 +18,70 @@ The goal of this license is to build a safe and fun space for creativity — muc
 
 "Modifications" refers to any derivative or altered versions of the Work made by the User for personal or community use.
 
+"Assets" include all media and content such as sprites, textures, audio files, animations, maps, fonts, user interface elements, and written text found in the Work.
+
 2. RIGHTS GRANTED TO THE USER
 
-2.1 You may use, copy, and modify the Work for personal and non-commercial purposes.
+2.1 You may download, use, and modify the Work for personal and non-commercial purposes only.
 
-2.2 You may share modifications with others, provided:
-   - You give proper credit to the original author (Maplebox).
-   - You include this license with any redistributed modification.
-   - You clearly state that your modification is unofficial and unaffiliated with Maplebox.
+2.2 You may share modifications privately or within closed communities provided:
 
-2.3 You may create tutorials, showcases, or content featuring the Work (e.g., videos or livestreams), including monetized media content like YouTube videos.
+* You give proper credit to Maplebox as the original creator.
+* You include a copy of this license with the modification.
+* You clearly indicate the modification is unofficial and not endorsed by Maplebox.
+
+2.3 You may showcase the Work or your modifications through video content, tutorials, reviews, and livestreams, including on monetized platforms such as YouTube or Twitch.
+
+2.4 You may create fan content (e.g., fan art, stories, music covers) for personal or non-commercial community sharing.
 
 3. RESTRICTIONS
 
-3.1 You may not resell, license, or distribute the original Work or your modifications for any commercial purpose without written permission from Maplebox.
+3.1 You may NOT sell, sublicense, or distribute the original Work or any of its parts (including source code, assets, or builds), whether modified or not, without explicit written permission from Maplebox.
 
-3.2 You may not extract, reuse, or repurpose the assets (e.g., sprites, textures, sound files, maps) for use in other games or projects unless clearly allowed in writing.
+3.2 You may NOT distribute modifications or derivative works publicly without prior written consent from Maplebox. This includes uploading mods to online platforms, hosting sites, or file sharing services.
 
-3.3 You may not claim the original Work or assets as your own.
+3.3 You may NOT extract, reuse, or repurpose any Assets (e.g., sprites, textures, audio, fonts, UI) for use in other games, commercial products, or digital content without express authorization.
 
-3.4 You may not use the Work to train AI models or automated systems, including but not limited to machine learning algorithms, without express written consent.
+3.4 You may NOT use the Work or any of its content to train AI models, datasets, or other automated systems, whether for commercial or research purposes.
 
-3.5 You may not use the Work in any way that violates local or international law.
+3.5 You may NOT use the Work in any way that violates applicable local, national, or international law.
+
+3.6 You may NOT claim ownership of the original Work, its content, or any part thereof.
+
+3.7 You may NOT use the Work in connection with any project, modification, or platform that promotes hate, discrimination, or unlawful activities.
+
+3.8 You may NOT host or mirror any part of the Work, including the original game builds or assets, on public servers or repositories.
 
 4. DISCLAIMERS AND LIMITATIONS
 
-4.1 The Work is provided "AS IS", without warranty of any kind. Maplebox disclaims all warranties, express or implied, including but not limited to fitness for a particular purpose and non-infringement.
+4.1 The Work is provided "AS IS" and without any warranties, express or implied. Maplebox disclaims all liability for any damages or loss of data resulting from the use of the Work.
 
-4.2 Maplebox is not responsible for any damages or data loss resulting from the use of this Work or its modifications.
+4.2 Maplebox does not guarantee compatibility, stability, or continued availability of the Work.
 
-4.3 This license does not grant any trademark, patent, or logo rights.
+4.3 This license does NOT grant rights to any Maplebox trademarks, logos, branding, or intellectual property outside of the Work.
 
-4.4 Maplebox may update or revise this license in future versions of the Work.
+4.4 Maplebox reserves the right to update or revise this license in future releases or updates to the Work.
+
+4.5 The User is solely responsible for their compliance with this license and any applicable laws.
 
 5. TERMINATION
 
-5.1 This license and the rights granted herein shall terminate automatically if the User violates any terms listed in Section 3.
+5.1 This license will terminate automatically if the User breaches any of the terms described in Section 3.
 
-5.2 Upon termination, the User must delete all copies and modifications of the Work from their devices and stop all use and distribution.
+5.2 Upon termination, the User must immediately delete all copies and modifications of the Work from their devices and cease all use and distribution.
 
-COPYRIGHT © 2025 MAPLEBOX. ALL RIGHTS RESERVED.
+5.3 Maplebox reserves the right to take legal action against any individual or group who misuses or violates this license.
+
+5.4 Termination does not limit any other legal or equitable remedies available to Maplebox.
+
+6. COMMUNITY GUIDELINES AND CONDUCT
+
+6.1 The User is encouraged to engage positively with the community by sharing feedback, reporting bugs, and contributing ideas respectfully.
+
+6.2 Abusive behavior, harassment, or spreading misinformation regarding the Work or its creators will not be tolerated and may result in a ban from community spaces and revocation of license rights.
+
+6.3 Users creating fan content or modifications must label their work clearly and avoid misleading representation of affiliation with Maplebox.
+
+6.4 Suggestions, feedback, or contributions sent to Maplebox may be used by Maplebox for development and improvement without compensation.
+
+COPYRIGHT 2025 MAPLEBOX. ALL RIGHTS RESERVED.
