@@ -44,7 +44,7 @@ __No installer is required for test versions.__
 
 __License and Usage Terms:__
 
-This project uses the __MIT License__ for the codebase, with additional restrictions for the game's assets.
+This project is licensed under the Maplebox Community Game License (MCGL) v1.0.
 
 __You are allowed to:__  
 - Modify the source code for personal, educational, or non-commercial purposes  
