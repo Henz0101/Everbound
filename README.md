@@ -13,7 +13,7 @@ This project is under active development and not yet complete. Features, assets,
 ---
 
 __Current Version:__  
-__v0.0.1-prealpha-1__
+__v0.0.1-PreAlpha-1__
 
 Features included:  
 - Basic WASD movement  
